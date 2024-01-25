@@ -10,7 +10,7 @@ To embark on this gravity-defying adventure, make sure you have the [SFML](https
 
 ## The Maestros Behind the Magic ✨
 
-Meet the brilliant minds who brought Jumping Tanks to life:
+Meet the developers:
 
 - 🎮 Umut Yılmaz
 - 🕹 Eren Yırtıcı
